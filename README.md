@@ -23,6 +23,7 @@ Bu proje, acil durumlarda hızlı ve güvenilir bilgi sağlamak amacıyla geliş
 | **Arayüz** | Gradio | Chatbot UI bileşenleri. |
 | **Reranker** | FlashRank | Alınan verilerin doğruluğunu optimize etme. |
 
+<img width="2560" height="2674" alt="127 0 0 1_7860_ (1)" src="https://github.com/user-attachments/assets/644c020b-19ab-4138-97b9-8c7614efe9d6" />
 
 
 ##  Kurulum
@@ -32,4 +33,4 @@ Bu proje, acil durumlarda hızlı ve güvenilir bilgi sağlamak amacıyla geliş
    git clone [https://github.com/Sacidea/Ilk-yardim-rag-asistan-.git](https://github.com/Sacidea/Ilk-yardim-rag-asistan-.git)
    cd Ilk-yardim-rag-asistan-
 
-   <img width="2560" height="2674" alt="127 0 0 1_7860_ (1)" src="https://github.com/user-attachments/assets/8a92e9a9-48c1-4023-9b4a-def6d5027170" />
+   
